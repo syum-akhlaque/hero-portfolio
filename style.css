@@ -18,7 +18,7 @@ h3 {
 }
 .top-banner h2 span {
 	color: #ec4c7a;
-	font-size: 45px;
+	font-size: 55px;
 	font-weight: 700;
 }
 .top-banner {
@@ -29,6 +29,9 @@ h3 {
 .top-banner-left-padding {
 	padding-top: 75px;
 	padding-left: 132px;
+}
+.top-banner p,.biography-area p {
+	margin-bottom: 50px;
 }
 .half-width {
 	width: 35%;
